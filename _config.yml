@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Travis J. Baker"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "Travis_Baker_CQC2T_2022.jpg"
+  bio              : "Research Fellow <br> Quantum Information Science"
+  location         : "Nanyang Technological University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=FAjP1V4AAAAJ"
+  email            : "dr.travis.j.baker@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "travbaker"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-6552-7685"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
