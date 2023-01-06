@@ -8,8 +8,8 @@ redirect_from:
 ---
 <center>
  <iframe width="100%" 
-         height="500" 
-         src="/files/paper1.pdf" 
+         height="800" 
+         src="/files/cv/CV - Travis Baker.pdf" 
          title="Curriculum Vitae" 
          frameborder="0" 
          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
