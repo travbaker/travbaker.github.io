@@ -16,3 +16,5 @@ redirect_from:
          allowfullscreen>
  </iframe>
 </center>
+
+Download a PDF copy of my CV [here](/files/cv/CV - Travis Baker.pdf).
