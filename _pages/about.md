@@ -16,7 +16,7 @@ Previously, I was a postdoctoral fellow in the theory group led by [Howard Wisem
 My appointment was as a researcher in the Centre for Quantum Computation and Communication technology, an Australian Research Council Centre of Excellence which develops cutting-edge quantum computing and communication technologies.
 Under Howard's supervision, I was awarded my PhD in the same group in 2021.
 
-My Research
-======
+#My Research
+#======
 
 

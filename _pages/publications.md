@@ -5,12 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
++{% if author.googlescholar %}
++  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
++{% endif %}
 
-{% include base_path %}
++{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
++{% for post in site.publications reversed %}
++  {% include archive-single.html %}
++{% endfor %}
+* T. J. Baker, S. N. Saadatmand, D. W. Berry, and H. M. Wiseman.  
+[**The Heisenberg limit for laser coherence**](https://doi.org/10.1038/s41567-020-01049-3). Nature Physics, 17(2):179--183, 2021.
+* S. Cheng, L. Liu, T. J. Baker, and M. J. W. Hall.  
+[**Recycling qubits for the generation of Bell nonlocality between independent sequential observers**](https://link.aps.org/doi/10.1103/PhysRevA.105.022411). Phys. Rev. A, 105:022411, 2022.
+* T. J. Baker and H. M. Wiseman.  
+[**Necessary conditions for steerability of two qubits from consideration of local operations**](https://link.aps.org/doi/10.1103/PhysRevA.101.022326). Phys. Rev. A, 101:022326, 2020.
+* T. J. Baker, S. Wollmann, G. J. Pryde, and H. M. Wiseman.  
+[**Necessary condition for steerability of arbitrary two-qubit states with loss**](https://doi.org/10.1088/2040-8986/aaaa3c). Journal of Optics, 20(3):034008, 2018.
+* S. Cheng, L. Liu, T. J. Baker, and M. J. W. Hall.  
+[**Limitations on sharing Bell nonlocality between sequential pairs of observers**](https://link.aps.org/doi/10.1103/PhysRevA.104.L060201). Phys. Rev. A, 104:L060201, 2021.
+* N. Tischler, F. Ghafari, T. J. Baker, S. Slussarenko, R. B. Patel, M. M. Weston, S. Wollmann, L. K. Shalm, V. B. Verma, S. W. Nam, H. C. Nguyen, H. M. Wiseman, and G. J. Pryde.  
+[**Conclusive Experimental Demonstration of One-Way Einstein-Podolsky-Rosen Steering**](https://doi.org/10.1103/PhysRevLett.121.100401). Physical Review Letters, 121(10):100401, 2018.
+
+
