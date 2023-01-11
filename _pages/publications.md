@@ -19,7 +19,6 @@ author_profile: true
 [**Conclusive Experimental Demonstration of One-Way Einstein-Podolsky-Rosen Steering**](https://doi.org/10.1103/PhysRevLett.121.100401). Physical Review Letters, 121(10):100401, 2018.
 
 
-
 Preprints
 ===
 
