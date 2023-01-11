@@ -5,15 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-+{% if author.googlescholar %}
-+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-+{% endif %}
+Journal Articles
 
-+{% include base_path %}
-
-+{% for post in site.publications reversed %}
-+  {% include archive-single.html %}
-+{% endfor %}
 * T. J. Baker, S. N. Saadatmand, D. W. Berry, and H. M. Wiseman.  
 [**The Heisenberg limit for laser coherence**](https://doi.org/10.1038/s41567-020-01049-3). Nature Physics, 17(2):179--183, 2021.
 * S. Cheng, L. Liu, T. J. Baker, and M. J. W. Hall.  
@@ -27,4 +20,8 @@ author_profile: true
 * N. Tischler, F. Ghafari, T. J. Baker, S. Slussarenko, R. B. Patel, M. M. Weston, S. Wollmann, L. K. Shalm, V. B. Verma, S. W. Nam, H. C. Nguyen, H. M. Wiseman, and G. J. Pryde.  
 [**Conclusive Experimental Demonstration of One-Way Einstein-Podolsky-Rosen Steering**](https://doi.org/10.1103/PhysRevLett.121.100401). Physical Review Letters, 121(10):100401, 2018.
 
+Preprints
+===
+
+PhD Thesis
 
