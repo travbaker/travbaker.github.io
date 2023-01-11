@@ -1,12 +1,9 @@
 ---
 layout: archive
-title:
+title: "Journal Articles"
 permalink: /publications/
 author_profile: true
 ---
-
-Journal Articles
-===
 
 * S. Cheng, L. Liu, T. J. Baker, and M. J. W. Hall.  
 [**Recycling qubits for the generation of Bell nonlocality between independent sequential observers**](https://link.aps.org/doi/10.1103/PhysRevA.105.022411). Phys. Rev. A, 105:022411, 2022.
