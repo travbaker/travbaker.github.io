@@ -4,7 +4,8 @@ title: "Journal Articles"
 permalink: /publications/
 author_profile: true
 ---
-*Q.-C. Song, T. J. Baker, and H. M. Wiseman.
+
+* Q.-C. Song, T. J. Baker, and H. M. Wiseman.
 [**On the power of one pure steered state for EPR-steering with a pair of qubits**](https://iopscience.iop.org/article/10.1088/1367-2630/accfba). New J. Phys. 25, 053005, 2023.
 * L. A. Ostrowski, T. J. Baker, S. N. Saadatmand, and H. M. Wiseman.
 [**No Tradeoff between Coherence and Sub-Poissonianity for Heisenberg-Limited Lasers**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.183602). Phys. Rev. Lett. 130:183602, 2023.
@@ -24,8 +25,8 @@ author_profile: true
 [**Conclusive Experimental Demonstration of One-Way Einstein-Podolsky-Rosen Steering**](https://doi.org/10.1103/PhysRevLett.121.100401). Physical Review Letters, 121(10):100401, 2018.
 
 
--->Preprints
--->===
+<!---Preprints--->
+<!---===--->
 
 
 
