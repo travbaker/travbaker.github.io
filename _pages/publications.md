@@ -4,7 +4,12 @@ title: "Journal Articles"
 permalink: /publications/
 author_profile: true
 ---
-
+*Q.-C. Song, T. J. Baker, and H. M. Wiseman.
+[**On the power of one pure steered state for EPR-steering with a pair of qubits**](https://iopscience.iop.org/article/10.1088/1367-2630/accfba). New J. Phys. 25, 053005, 2023.
+* L. A. Ostrowski, T. J. Baker, S. N. Saadatmand, and H. M. Wiseman.
+[**No Tradeoff between Coherence and Sub-Poissonianity for Heisenberg-Limited Lasers**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.183602). Phys. Rev. Lett. 130:183602, 2023.
+* L. A. Ostrowski, T. J. Baker, S. N. Saadatmand, and H. M. Wiseman.
+[**Optimized Laser Models with Heisenberg-Limited Coherence and Sub-Poissonian Beam Photon Statistics**](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.053702). Phys. Rev. A 107, 053702, 2023.
 * S. Cheng, L. Liu, T. J. Baker, and M. J. W. Hall.  
 [**Recycling qubits for the generation of Bell nonlocality between independent sequential observers**](https://link.aps.org/doi/10.1103/PhysRevA.105.022411). Phys. Rev. A, 105:022411, 2022.
 * S. Cheng, L. Liu, T. J. Baker, and M. J. W. Hall.  
@@ -19,15 +24,9 @@ author_profile: true
 [**Conclusive Experimental Demonstration of One-Way Einstein-Podolsky-Rosen Steering**](https://doi.org/10.1103/PhysRevLett.121.100401). Physical Review Letters, 121(10):100401, 2018.
 
 
-Preprints
-===
+-->Preprints
+-->===
 
-* Q.-C. Song, T. J. Baker, and H. M. Wiseman.  
-[**On the power of one pure steered state for EPR-steering with a pair of qubits**](https://arxiv.org/abs/2212.10825). 2022.
-* L. A. Ostrowski, T. J. Baker, S. N. Saadatmand, and H. M. Wiseman.  
-[**No Tradeoff between Coherence and Sub-Poissonianity for Heisenberg-Limited Lasers**](https://arxiv.org/abs/2208.14081). 2022.
-* L. A. Ostrowski, T. J. Baker, S. N. Saadatmand, and H. M. Wiseman.  
-[**Optimized Laser Models with Heisenberg-Limited Coherence and Sub-Poissonian Beam Photon Statistics**](https://arxiv.org/abs/2208.14082). 2022.
 
 
 PhD Thesis
